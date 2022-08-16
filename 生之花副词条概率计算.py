@@ -162,7 +162,6 @@ print("第三次抽到元素精通的概率是", gailv3)
 
 
 
-
 # quanbufucitiao1 = [a, d, pl, pa, pd, b, bs, yc, yj]
 # i = 0
 # n = quanbufucitiao1[i] #n是被删除的元素
