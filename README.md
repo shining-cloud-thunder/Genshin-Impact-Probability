@@ -1,2 +1,2 @@
 # Genshin-Impact
-圣遗物的概率问题
+Discuss the probability of relic
