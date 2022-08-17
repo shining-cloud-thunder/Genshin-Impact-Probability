@@ -1,2 +1,2 @@
-# Genshin-Impact
+# Genshin-Impact-Probability
 Discuss the probability of relic
